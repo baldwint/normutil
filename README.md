@@ -5,4 +5,4 @@ This is a demo repo that shows two ways of putting Git's commit hash into a Pyth
 - Using [Versioneer](https://github.com/python-versioneer/python-versioneer) on the `versioneer` branch
 - Using [setuptools_scm](https://github.com/pypa/setuptools_scm) on the `setuptools-scm` branch.
 
-I talk about this in my Normconf 2022 lightning talk.
+I talk about this in my Normconf 2022 [lightning talk](https://www.youtube.com/watch?v=dCswm8WXCJ8).
